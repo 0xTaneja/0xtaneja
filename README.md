@@ -4,7 +4,8 @@ I am a passionate Computer Engineering student with a strong interest in Web3, A
 
 ## 🏆 Achievements
 - Received a grant of $21,000 from CrossFi for developing XFIPay  
- 
+
+- Winner of Trading Track in OKX Solana Accelerate Hackathon - [Observo](https://dorahacks.io/buidl/26556)
 
 - Winner of the Web3SSH Hackathon (IIIT SriCity)
 
